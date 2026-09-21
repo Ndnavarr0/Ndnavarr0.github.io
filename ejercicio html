@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>ejercicio</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Modulos troncales</h2>
+                <article>
+                <h3>Lenguaje d marcas</h3>
+                <p>hola</p>
+                </article>
+         <p>ejercicio</p>
+        </section>
+        <section>
+            <h2>Mas cosas</h2>
+        </section>
+    </main>
+    <footer>
+        <p>Esta web esta hecha para practicar</p>
+    </footer>
+</body>
+</html>
