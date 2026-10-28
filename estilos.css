@@ -22,6 +22,7 @@ div{
 }
 ol{
     text-align: center;
+    list-style: none;
 }
 li{
     display: inline-block;
