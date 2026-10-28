@@ -1,5 +1,36 @@
+:root{
+    --color-primario:#C2185B;
+    --color-secundario:#E85D75;
+    --color-terciario:#F4B6C2;
+    --color-cuarto:#FFF7F5;
+    --color-quinto:#4A2633;
+    --color-sexto:#A52A2A;
+}
+body{
+    margin: 0 auto;
+    background-color: var(--color-cuarto);
+}
 h1{
- color:rgb(247, 143, 160);
+    color:var(--color-primario);
  font-size:30px;
- background-color: rgb(255, 171, 185);
+ background-color:var(--color-terciario)
+}
+div{
+    background-image:url(imagenes/TokioJaponPFB-990x630.webp) ;
+    background-size: cover;
+    text-align: center;
+}
+ol{
+    text-align: center;
+}
+li{
+    display: inline-block;
+}
+a{
+    color: var(--color-primario);
+}
+footer{
+    color:var(--color-primario);
+    background-color:var(--color-terciario);
+    text-align: center;
 }
