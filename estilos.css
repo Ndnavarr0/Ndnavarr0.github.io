@@ -15,7 +15,7 @@ h1{
  font-size:30px;
  background-color:var(--color-terciario)
 }
-div{
+#inicio{
     background-image:url(imagenes/TokioJaponPFB-990x630.webp) ;
     background-size: cover;
     text-align: center;
@@ -34,6 +34,9 @@ li{
 }
 a{
     color: var(--color-primario);
+}
+#redes_sociales1{
+    display: inline-block;
 }
 footer{
     color:var(--color-primario);
